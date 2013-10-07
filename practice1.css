@@ -1,0 +1,16 @@
+body {font-family: "Arial"; background-color: gray;}
+h1 {color: pink;}
+h2 {color: navy;}
+.mascot {color: brown;}
+/*.line-separator{
+height:1px;
+background:#717171;
+border-bottom:1px solid #313030;
+}*/
+img { width: 100px; margin-left: 20px;}
+.line-separator
+{
+border-bottom-style: dotted;
+border-bottom-color: blue;
+}
+.details {float: right;}
